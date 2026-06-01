@@ -76,3 +76,5 @@ Evaluation of campaign objectives, audience segments, acquisition efficiency, pr
 These projects were completed as part of the Bertelsmann Data Science Scholarship pathway delivered through Udacity.
 
 They represent an early stage in a learning journey that later expanded into machine learning, deep learning, reinforcement learning, AI systems design, educational technologies, and exploratory computational research.
+
+<img src="https://user-images.githubusercontent.com/39020690/68084205-8bc66180-fe00-11e9-9388-6d5fc1bbf9e5.png" width="800">
